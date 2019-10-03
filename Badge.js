@@ -7,13 +7,14 @@
 
 import React, {
     Component,
-    PropTypes,
 } from 'react'
+import PropTypes from 'prop-types'
 import {
     View,
     ViewPropTypes,
     Text,
     StyleSheet,
+    ViewPropTypes,
 } from 'react-native'
 
 const styles = StyleSheet.create({
