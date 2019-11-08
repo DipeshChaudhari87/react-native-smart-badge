@@ -13,8 +13,7 @@ import {
     View,
     ViewPropTypes,
     Text,
-    StyleSheet,
-    ViewPropTypes,
+    StyleSheet
 } from 'react-native'
 
 const styles = StyleSheet.create({
