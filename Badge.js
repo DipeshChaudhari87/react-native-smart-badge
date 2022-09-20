@@ -47,7 +47,7 @@ export default class Badge extends Component {
         //borderRadius: PropTypes.number,   //number 18, null 5
         extraPaddingHorizontal: PropTypes.number,
         style: ViewPropTypes.style,
-        textStyle: Text.propTypes.style,
+        //textStyle: Text.propTypes.style,
         minHeight: PropTypes.number,
         minWidth: PropTypes.number,
     }
